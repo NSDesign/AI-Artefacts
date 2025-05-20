@@ -2,19 +2,19 @@ document.addEventListener('DOMContentLoaded', () => {
     // Configuration for repositories
     const repos = {
         repo1: {
-            owner: 'yourusername',
-            name: 'repository1',
+            owner: 'NSDeisgn',
+            name: 'Drawing_App',
             branch: 'main',
             path: 'index.html'
         },
         repo2: {
-            owner: 'yourusername',
-            name: 'repository2',
+            owner: 'NSDeisgn',
+            name: 'InteractiveGradientGenerator',
             branch: 'main',
             path: 'index.html'
         },
         repo3: {
-            owner: 'yourusername',
+            owner: 'NSDeisgn',
             name: 'repository3',
             branch: 'main',
             path: 'index.html'
